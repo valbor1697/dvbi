@@ -1,2 +1,2 @@
 # Hello-world
-This is my first repository. I am learning Git using the conflict-practice branch.
+This is my first repository. I am learning Git branches and how to resolve merge conflicts.
