@@ -1,3 +1,2 @@
 # Hello-world
-This is my first repository.
-I am looking forward to learning more.
+This is my first repository. I am learning Git using the conflict-practice branch.
